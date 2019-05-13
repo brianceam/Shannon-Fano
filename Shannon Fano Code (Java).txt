@@ -56,4 +56,4 @@ public class ShannonFano
 		}
 		keyboard.close();
 	}//end main
-}//end Shannon-Fano Code
+}//end Shannon Fano Code
